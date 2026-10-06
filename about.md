@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Cagney. I like building things, learning how they work, and measuring whether they actually do.
+I'm Cagney. I like building things, measuring things, and getting excited about new possibilities.
 
 I grew up in the trades and went on to run my own contracting business in Southern California for nine years: office build-outs, retail stores, industrial spaces, clean rooms. Construction taught me to estimate, to deal with people under deadlines, and that people want things that "just work".
 
