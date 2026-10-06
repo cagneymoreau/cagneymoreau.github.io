@@ -1,0 +1,26 @@
+title: Cagney Moreau
+description: "" # one-line tagline, to be written
+url: "https://cagneyamoreau.com"
+baseurl: ""
+author:
+  name: Cagney Moreau
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+permalink: /:year/:title/
+
+header_pages:
+  - writing.md
+  - about.md
+
+minima:
+  social_links: []
+
+exclude:
+  - README.md
+  - _drafts
